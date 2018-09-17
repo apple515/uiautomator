@@ -1,0 +1,12 @@
+package com.uiselector;
+
+import com.android.uiautomator.testrunner.UiAutomatorTestCase;
+
+public class Demo extends UiAutomatorTestCase {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

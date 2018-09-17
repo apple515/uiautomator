@@ -1,0 +1,26 @@
+package com.uidevicetest;
+
+import org.junit.jupiter.params.shadow.com.univocity.parsers.tsv.TsvFormat;
+
+import com.android.uiautomator.core.UiDevice;
+import com.android.uiautomator.testrunner.UiAutomatorTestCase;
+
+public class Teuidevice extends UiAutomatorTestCase {
+	public void testDevice() {
+//		UiDevice.getInstance().pressHome();
+//		getUiDevice().pressHome();//这种方法在后续的使用过程中可能会出现空指针
+		Demo2 d2=new Demo2();
+		d2.press();
+	}
+	
+	public static void main(String args) {
+		String jarName, testClass, testName, androidId;
+		jarName="Teuidevice";
+		testClass="com.uidevicetest.Teuidevice";
+		testName="testdevice";
+		androidId="1";
+		new UiAutomatorHelper(jarName, testClass, testName, androidId);
+		
+	}
+
+}

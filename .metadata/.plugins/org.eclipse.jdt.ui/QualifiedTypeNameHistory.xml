@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.gld.base.UiAutomatorHelper"/>
+<fullyQualifiedTypeName name="com.uitest.UiAutomatorHelper"/>
+<fullyQualifiedTypeName name="org.junit.platform.engine.TestSource"/>
+<fullyQualifiedTypeName name="com.android.uiautomator.core.UiScrollable"/>
+<fullyQualifiedTypeName name="com.android.uiautomator.testrunner.UiAutomatorTestCase"/>
+<fullyQualifiedTypeName name="com.uidevicetest.Demo2"/>
+<fullyQualifiedTypeName name="com.uidevicetest.UiAutomatorHelper"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.params.shadow.com.univocity.parsers.tsv.TsvFormat"/>
+<fullyQualifiedTypeName name="android.graphics.Rect"/>
+<fullyQualifiedTypeName name="android.graphics.Point"/>
+<fullyQualifiedTypeName name="android.os.RemoteException"/>
+<fullyQualifiedTypeName name="java.rmi.server.UID"/>
+<fullyQualifiedTypeName name="android.view.Surface"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="android.view.KeyEvent"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="com.uiselector.UiAutomatorHelper"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="com.android.uiautomator.core.UiDevice"/>
+<fullyQualifiedTypeName name="com.android.uiautomator.core.UiObjectNotFoundException"/>
+<fullyQualifiedTypeName name="com.android.uiautomator.core.UiObject"/>
+<fullyQualifiedTypeName name="com.android.uiautomator.core.UiSelector"/>
+</qualifiedTypeNameHistroy>

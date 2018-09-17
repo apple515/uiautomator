@@ -1,0 +1,12 @@
+package com.uidevicetest;
+
+import com.android.uiautomator.testrunner.UiAutomatorTestCase;
+
+public class Demo2 extends UiAutomatorTestCase {
+	public void press() {
+		getUiDevice().pressMenu();
+		getUiDevice().pressHome();
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.uidevicetest.Browserr&apos; to &apos;Browser&apos;&#x0D;&#x0A;- Original project: &apos;Uidevice&apos;&#x0D;&#x0A;- Original element: &apos;com.uidevicetest.Browserr&apos;&#x0D;&#x0A;- Renamed element: &apos;com.uidevicetest.Browser&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Browserr&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.uidevicetest{Browserr.java[Browserr" matchStrategy="1" name="Browser" qualified="false" references="true" similarDeclarations="false" stamp="1536890337128" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,28 @@
+package com.uiselector;
+
+import com.android.uiautomator.core.UiObject;
+import com.android.uiautomator.core.UiObjectNotFoundException;
+import com.android.uiautomator.core.UiSelector;
+import com.android.uiautomator.testrunner.UiAutomatorTestCase;
+
+public class Demo extends UiAutomatorTestCase {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String jarName, testClass, testName, androidId;
+		jarName="Demo";
+		testClass="com.uiselector.Demo";
+		testName="testDemo";
+		androidId="1";
+		new UiAutomatorHelper(jarName, testClass, testName, androidId);
+
+	}
+	public void testDemo() throws UiObjectNotFoundException {
+		//找到对象-操作对象
+		UiSelector l=new UiSelector().text("联系人");
+		UiObject object=new UiObject(l);
+		object.click();
+	}
+
+}
+ 
