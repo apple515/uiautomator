@@ -1,0 +1,762 @@
+Added file D:\Users\apple\eclipse-workspace\report\build.xml
+Buildfile: D:\Users\apple\eclipse-workspace\report\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.5
+ [checkenv] Installed at C:\Users\apple\AppData\Local\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 28.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 7.1.1
+[getuitarget] API level:        25
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: D:\Users\apple\eclipse-workspace\report\bin\classes
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\Users\apple\eclipse-workspace\report\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] ע: D:\Users\apple\eclipse-workspace\report\src\com\report\demo.javaʹ�û򸲸����ѹ�ʱ�� API��
+    [javac] ע: �й���ϸ��Ϣ, ��ʹ�� -Xlint:deprecation ���±��롣
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Users\apple\eclipse-workspace\report\bin\classes
+      [dex] Converting compiled files and external libraries into D:\Users\apple\eclipse-workspace\report\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Users\apple\eclipse-workspace\report\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+adb: error: failed to get feature set: no devices/emulators found
+adb server version (32) doesn't match this client (40); killing...
+* daemon started successfully
+error: no devices/emulators found
+
+       Usage:
+       android [global options] create uitest-project [action options]
+       Global options:
+  -s --silent     : Silent mode, shows errors only.
+  -v --verbose    : Verbose mode, shows errors, warnings and all messages.
+     --clear-cache: Clear the SDK Manager repository manifest cache.
+  -h --help       : Help on a specific command.
+
+                                Action "create uitest-project":
+  Creates a new UI test project.
+Options:
+  -n --name    : Project name.
+  -p --path    : The new project's directory. [required]
+  -t --target  : Target ID of the new project. [required]
+Error: Oops, it looks like you didn't provide an argument for '-n'.
+'-t' was found instead.
+Buildfile: D:\Users\apple\eclipse-workspace\report\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.5
+ [checkenv] Installed at C:\Users\apple\AppData\Local\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 28.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 7.1.1
+[getuitarget] API level:        25
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Users\apple\eclipse-workspace\report\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Users\apple\eclipse-workspace\report\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Users\apple\eclipse-workspace\report\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb: error: failed to get feature set: no devices/emulators found
+error: no devices/emulators found
+Updated file D:\Users\apple\eclipse-workspace\report\build.xml
+Buildfile: D:\Users\apple\eclipse-workspace\report\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.5
+ [checkenv] Installed at C:\Users\apple\AppData\Local\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 28.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 7.1.1
+[getuitarget] API level:        25
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Users\apple\eclipse-workspace\report\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Users\apple\eclipse-workspace\report\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Users\apple\eclipse-workspace\report\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb: error: failed to get feature set: no devices/emulators found
+error: no devices/emulators found
+Updated file D:\Users\apple\eclipse-workspace\report\build.xml
+Buildfile: D:\Users\apple\eclipse-workspace\report\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.5
+ [checkenv] Installed at C:\Users\apple\AppData\Local\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 28.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 7.1.1
+[getuitarget] API level:        25
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Users\apple\eclipse-workspace\report\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Users\apple\eclipse-workspace\report\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Users\apple\eclipse-workspace\report\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb: error: failed to get feature set: no devices/emulators found
+error: no devices/emulators found
+Updated file D:\Users\apple\eclipse-workspace\report\build.xml
+Buildfile: D:\Users\apple\eclipse-workspace\report\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.5
+ [checkenv] Installed at C:\Users\apple\AppData\Local\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 28.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 7.1.1
+[getuitarget] API level:        25
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Users\apple\eclipse-workspace\report\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Users\apple\eclipse-workspace\report\bin\classes.dex...
+       [dx] 
+       [dx] ERROR: No suitable Java found. In order to properly use the Android Developer
+       [dx] Tools, you need a suitable version of Java JDK installed on your system.
+       [dx] We recommend that you install the JDK version of JavaSE, available here:
+       [dx]   http://www.oracle.com/technetwork/java/javase/downloads
+       [dx] 
+       [dx] If you already have Java installed, you can define the JAVA_HOME environment
+       [dx] variable in Control Panel / System / Avanced System Settings to point to the
+       [dx] JDK folder.
+       [dx] 
+       [dx] You can find the complete Android SDK requirements here:
+       [dx]   http://developer.android.com/sdk/requirements.html
+       [dx] 
+
+-post-dex:
+
+-jar:
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb: error: failed to get feature set: no devices/emulators found
+error: no devices/emulators found
+Updated file D:\Users\apple\eclipse-workspace\report\build.xml
+Buildfile: D:\Users\apple\eclipse-workspace\report\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.5
+ [checkenv] Installed at C:\Users\apple\AppData\Local\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 28.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 7.1.1
+[getuitarget] API level:        25
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Users\apple\eclipse-workspace\report\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Users\apple\eclipse-workspace\report\bin\classes.dex...
+       [dx] 
+       [dx] ERROR: No suitable Java found. In order to properly use the Android Developer
+       [dx] Tools, you need a suitable version of Java JDK installed on your system.
+       [dx] We recommend that you install the JDK version of JavaSE, available here:
+       [dx]   http://www.oracle.com/technetwork/java/javase/downloads
+       [dx] 
+       [dx] If you already have Java installed, you can define the JAVA_HOME environment
+       [dx] variable in Control Panel / System / Avanced System Settings to point to the
+       [dx] JDK folder.
+       [dx] 
+       [dx] You can find the complete Android SDK requirements here:
+       [dx]   http://developer.android.com/sdk/requirements.html
+       [dx] 
+
+-post-dex:
+
+-jar:
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb: error: failed to get feature set: no devices/emulators found
+error: no devices/emulators found
+Updated file D:\Users\apple\eclipse-workspace\report\build.xml
+Buildfile: D:\Users\apple\eclipse-workspace\report\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.5
+ [checkenv] Installed at C:\Users\apple\AppData\Local\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 28.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 7.1.1
+[getuitarget] API level:        25
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Users\apple\eclipse-workspace\report\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Users\apple\eclipse-workspace\report\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Users\apple\eclipse-workspace\report\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+adb: error: failed to get feature set: no devices/emulators found
+error: no devices/emulators found
+Updated file D:\Users\apple\eclipse-workspace\report\build.xml
+Buildfile: D:\Users\apple\eclipse-workspace\report\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.5
+ [checkenv] Installed at C:\Users\apple\AppData\Local\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 28.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 7.1.1
+[getuitarget] API level:        25
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Users\apple\eclipse-workspace\report\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Users\apple\eclipse-workspace\report\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Users\apple\eclipse-workspace\report\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb: error: failed to get feature set: no devices/emulators found
+error: no devices/emulators found
+Updated file D:\Users\apple\eclipse-workspace\report\build.xml
+Buildfile: D:\Users\apple\eclipse-workspace\report\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.5
+ [checkenv] Installed at C:\Users\apple\AppData\Local\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 28.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 7.1.1
+[getuitarget] API level:        25
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Users\apple\eclipse-workspace\report\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Users\apple\eclipse-workspace\report\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Users\apple\eclipse-workspace\report\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb: error: failed to get feature set: no devices/emulators found
+error: no devices/emulators found
+Updated file D:\Users\apple\eclipse-workspace\report\build.xml
+Buildfile: D:\Users\apple\eclipse-workspace\report\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.5
+ [checkenv] Installed at C:\Users\apple\AppData\Local\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 28.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 7.1.1
+[getuitarget] API level:        25
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Users\apple\eclipse-workspace\report\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Users\apple\eclipse-workspace\report\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Users\apple\eclipse-workspace\report\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb: error: failed to get feature set: no devices/emulators found
+error: no devices/emulators found
+Updated file D:\Users\apple\eclipse-workspace\report\build.xml
+Buildfile: D:\Users\apple\eclipse-workspace\report\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.5
+ [checkenv] Installed at C:\Users\apple\AppData\Local\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 28.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 7.1.1
+[getuitarget] API level:        25
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Users\apple\eclipse-workspace\report\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Users\apple\eclipse-workspace\report\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Users\apple\eclipse-workspace\report\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb: error: failed to get feature set: no devices/emulators found
+error: no devices/emulators found
+Updated file D:\Users\apple\eclipse-workspace\report\build.xml
+Buildfile: D:\Users\apple\eclipse-workspace\report\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.5
+ [checkenv] Installed at C:\Users\apple\AppData\Local\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 28.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 7.1.1
+[getuitarget] API level:        25
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Users\apple\eclipse-workspace\report\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Users\apple\eclipse-workspace\report\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Users\apple\eclipse-workspace\report\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb: error: failed to get feature set: no devices/emulators found
+error: no devices/emulators found
+Updated file D:\Users\apple\eclipse-workspace\report\build.xml
+Buildfile: D:\Users\apple\eclipse-workspace\report\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.5
+ [checkenv] Installed at C:\Users\apple\AppData\Local\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 28.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 7.1.1
+[getuitarget] API level:        25
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Users\apple\eclipse-workspace\report\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Users\apple\eclipse-workspace\report\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb: error: failed to get feature set: no devices/emulators found
+error: no devices/emulators found
+Updated file D:\Users\apple\eclipse-workspace\report\build.xml
+Buildfile: D:\Users\apple\eclipse-workspace\report\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.5
+ [checkenv] Installed at C:\Users\apple\AppData\Local\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 28.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 7.1.1
+[getuitarget] API level:        25
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Users\apple\eclipse-workspace\report\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Users\apple\eclipse-workspace\report\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Users\apple\eclipse-workspace\report\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb: error: failed to get feature set: no devices/emulators found
+error: no devices/emulators found
+Updated file D:\Users\apple\eclipse-workspace\report\build.xml
+Buildfile: D:\Users\apple\eclipse-workspace\report\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.5
+ [checkenv] Installed at C:\Users\apple\AppData\Local\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 28.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 7.1.1
+[getuitarget] API level:        25
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Users\apple\eclipse-workspace\report\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Users\apple\eclipse-workspace\report\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Users\apple\eclipse-workspace\report\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb: error: failed to get feature set: no devices/emulators found
+error: no devices/emulators found
+
+ERROR: No suitable Java found. In order to properly use the Android Developer
+Tools, you need a suitable version of Java JDK installed on your system.
+We recommend that you install the JDK version of JavaSE, available here:
+  http://www.oracle.com/technetwork/java/javase/downloads
+
+If you already have Java installed, you can define the JAVA_HOME environment
+variable in Control Panel / System / Avanced System Settings to point to the
+JDK folder.
+
+You can find the complete Android SDK requirements here:
+  http://developer.android.com/sdk/requirements.html
+
+Buildfile: D:\Users\apple\eclipse-workspace\report\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.5
+ [checkenv] Installed at C:\Users\apple\AppData\Local\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 28.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 7.1.1
+[getuitarget] API level:        25
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Users\apple\eclipse-workspace\report\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Users\apple\eclipse-workspace\report\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Users\apple\eclipse-workspace\report\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb: error: failed to get feature set: no devices/emulators found
+error: no devices/emulators found
+Updated file D:\Users\apple\eclipse-workspace\report\build.xml
+Buildfile: D:\Users\apple\eclipse-workspace\report\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.5
+ [checkenv] Installed at C:\Users\apple\AppData\Local\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 28.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 7.1.1
+[getuitarget] API level:        25
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Users\apple\eclipse-workspace\report\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Users\apple\eclipse-workspace\report\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Users\apple\eclipse-workspace\report\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+[100%] /data/local/tmp/demo.jar
+D:\Users\apple\eclipse-workspace\report\bin\demo.jar: 1 file pushed. 0.1 MB/s (5145 bytes in 0.038s)
+Warning: This version of UI Automator is deprecated. New tests should be written using
+UI Automator 2.0 which is available as part of the Android Testing Support Library.
+See https://developer.android.com/training/testing/ui-testing/uiautomator-testing.html
+for more details.
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+com.report.demo:
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testReport
+INSTRUMENTATION_STATUS: class=com.report.demo
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 1
+setup用例开始执行
+INSTRUMENTATION_STATUS: key2=value2
+INSTRUMENTATION_STATUS: key1*=value1*
+INSTRUMENTATION_STATUS_CODE: 10
+test,用例
+INSTRUMENTATION_STATUS: key1=value1
+INSTRUMENTATION_STATUS: key2=value2
+INSTRUMENTATION_STATUS_CODE: 11
+teardown 用例完了
+INSTRUMENTATION_STATUS: key1-=value1-
+INSTRUMENTATION_STATUS: key2-=value2-
+INSTRUMENTATION_STATUS_CODE: 12
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testReport
+INSTRUMENTATION_STATUS: class=com.report.demo
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 0.014
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1

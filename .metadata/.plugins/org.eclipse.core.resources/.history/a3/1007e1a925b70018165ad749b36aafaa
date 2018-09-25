@@ -1,7 +1,0 @@
-package com.uidevicetest;
-
-import com.android.uiautomator.testrunner.UiAutomatorTestCase;
-
-public class Teuidevice extends UiAutomatorTestCase {
-
-}

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/uiselector/src/com/uiselector/Demo.java"/>
+<listEntry value="/report/src/com/report/demo.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
 <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.uiselector.Demo"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="uiselector"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.report.demo"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="report"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dfile.encoding=UTF-8"/>
 </launchConfiguration>
